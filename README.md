@@ -1,3 +1,5 @@
+#Demo1 Exercise
+
 *SECTION I: Warm up*
 
 At the beginning of the lecture, pleas deploy the CloudFormation stacks as guided below:
